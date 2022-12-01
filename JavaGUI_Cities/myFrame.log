@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-26T15:27:32.005544Z</date>
+  <millis>1643210852005</millis>
+  <nanos>544000</nanos>
+  <sequence>0</sequence>
+  <logger>Main.myFrame</logger>
+  <level>INFO</level>
+  <class>Main.myFrame</class>
+  <method>actionPerformed</method>
+  <thread>19</thread>
+  <message>Age:middle</message>
+</record>
+<record>
+  <date>2022-01-26T15:27:42.717567Z</date>
+  <millis>1643210862717</millis>
+  <nanos>567000</nanos>
+  <sequence>1</sequence>
+  <logger>Main.myFrame</logger>
+  <level>INFO</level>
+  <class>Main.myFrame</class>
+  <method>actionPerformed</method>
+  <thread>19</thread>
+  <message>Logger critiria: 0.7,0.5,0.3,0.5,0.4,0.3,0.3</message>
+</record>
+</log>
