@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyGeoApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_result_maps">ResultMapsActivity</string>
+    <string name="map">Map</string>
+    <string name="results_map">Results Map</string>
+    <string name="welcome_to_geoforce_app">Welcome to Geoforce App</string>
+</resources>
